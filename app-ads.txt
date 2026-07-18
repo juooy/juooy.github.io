@@ -1,2 +1,6 @@
 google.com, pub-9857465756874707, DIRECT, f08c47fec0942fa0
+google.com, pub-6373977829859680, DIRECT, f08c47fec0942fa0
+https://pray-for-u.blogspot.com, 12345, DIRECT, d75815a79
+https://weareyoung-privacypolicy.blogspot.com, XF436, DIRECT
+https://juooy.tistory.com, 56789, DIRECT
 contact=cs.sw.mg@gmail.com
